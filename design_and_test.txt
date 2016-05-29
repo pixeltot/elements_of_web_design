@@ -1,7 +1,62 @@
 What Is User-centered Design (UCD)?
 -----------------------------------
-
 User-centered design is a process in which the needs, want, and limitations
 of a user are given extensive attention at each stage of the design process
 
-having personas in place is at the center of a user centered design approach
+having personas in place is the foundation of a user centered design approach
+
+
+Building And Testing Each Feature
+---------------------------------
+there are five primary steps that you need to take:
+1. identify primary feature to build based on personas
+2. understand why the personas need this feature, or why this feature is important
+3. research how other people have solved this problem
+4. sketch and/or wireframe your ideas
+5. test your design with users in your target audience
+
+
+Primary feature of the the product comes first!
+designing for mobile is an important part of any application these days
+1. because people dont have a lot of time
+2. because they can find things fast on the fly
+
+
+sketching helps quickly get ideas out with less commitment
+wireframes are a higher fidelity and are good for validating overall effectiveness of the design
+here are some utilities for wireframing:
+1. OmniGraffle
+2. Sketch
+3. Balsamiq
+
+
+Put Good Copy In Your Wireframe
+-------------------------------
+1. Never use lorem ipsum when creating a wireframe
+2. the client needs to know what they are looking at, and how to interact with it
+3. when testing your designs, you need to know what to look for
+
+
+The Five-second Usability Test
+------------------------------
+five-second tests help you understand a users first-impressions of your design
+is your design easily understood and easy to use?
+you're testing the feature, NOT the user
+always remain neutral- you are there to listen and watch
+never jump in and assist, dont lead the user
+take good notes, capture what they do and what they say
+try and test between five and seven users at a time
+
+
+three simple questions:
+-----------------------
+1. what does this feature do?
+2. what do you like about it?
+3. what dont you like about it?
+
+note: you should test on about 5-7 users at one time
+
+Adding More Features And Tesing As You Go
+------------------------------------------
+Testing the entire process ensures that you are on the path in building a product your users actually want
+understanding who your target audience is and tesing your designs are the core principles of a USD approach
