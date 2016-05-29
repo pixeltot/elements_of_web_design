@@ -1,0 +1,7 @@
+What Is User-centered Design (UCD)?
+-----------------------------------
+
+User-centered design is a process in which the needs, want, and limitations
+of a user are given extensive attention at each stage of the design process
+
+having personas in place is at the center of a user centered design approach

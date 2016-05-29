@@ -1,0 +1,61 @@
+Personas
+--------
+personas are users that are described inside of a target audience
+
+Most Important Questions You Should Ask Before Starting A Project
+-----------------------------------------------------------------
+1. Can Users easily find and read reviews
+2. Can Users publish and review movies
+3. Do users need a dashboard with analytics
+4. Do users need to be able to make purchases, what will they be purchasing
+5. Should there be an Admin and User, and how should their roles be seperated
+
+
+You Need To Understand Who Your Target Audience Is
+---------------------------------------------------
+1. how much experience do they have?
+2. what is their professional background?
+3. what are their needs and interests?
+4. how they are currently trying to meet those needs?
+5. when and where would they use this service?
+
+
+How Can You Gather Persona Information
+--------------------------------------
+1. you can make educated assumptions
+2. conduct a focus group
+3. interview current users
+
+
+you need a way to organize information about your users.
+creating assumption personas is a good way to start a project
+
+
+What Does A Persona Entail
+--------------------------
+here is a recipe: personas are descriptions of users within your target audience
+
+1. pull quote: should summarize their needs and goals
+2. image: their profile picture, or avatar
+3. goals: write reviews, find peer reviews?, read latest trends?, share reviews.
+4. fictitious name: a name, henry for example
+5. job title
+6. demographics: general demographic information
+7. concerns:  can i co-write reviews?,
+              can i read reviews on my mobile device,
+              can i save articles i want to read later
+              can i follow peers whos reviews
+
+
+4 Benifits Of Creating Personas
+-------------------------------
+1. creating personas seperate you from your work, assuming you know what the user needs
+2. they allow you to empathize with the users needs
+3. they focus decision-making and peronalize the users.
+4. create a shared understanding of WHO the user is
+
+
+
+
+
+
