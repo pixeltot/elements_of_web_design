@@ -1,0 +1,143 @@
+What Is Information Architecture?
+---------------------------------
+This is the process of organizing and lebeling the content making it easier for users to find
+-structured
+-organized
+-labeled
+
+examples of information architecture put to good use
+1. trains stops - directions - icons
+2. airports - primary information - icons
+3. website architecture needs to help people find the content thay are looking for
+
+
+The Four Primary Ways To Find Content On The Web
+------------------------------------------------
+1. known items - this is when you know what you want, and know where to find it
+2. exploratory - know what you want, but are not sure where to find it - good labeling comes in handy here
+3. unknown - dont know what you are looking for, not sure how to search for it
+4. re-finding - looking for content you already have seen
+
+
+Known Items
+-----------
+- If you know what you are looking for, and A-Z index navigation is useful
+- Search bar is also a good tool if users know specifically what to look for
+- quick links can be used to help users find what they are looking for as quick as possible
+
+
+Exploratory
+-----------
+- navigation is important because its a good place to start if the user doesnt know what to look for
+- search is a great tool becaues it helps users find what they are looking for
+- related information will also help users find content they may be interested in
+
+
+Unknown
+-------
+- simple language help users find things with basic non-technical labeling
+- customer communication, or personal communication is a powerful tool with companies that offer complex services
+
+
+Re-finding
+----------
+- looking for content you have already seen - e.g. recent shopping history
+
+
+Start By Organizing Content Into Pages
+---------------------------------------
+- using posted notes helps you visualize the sites-structure
+1. you need to identify your content
+    -support
+    -peer reviews
+    -faq
+    -my review reports
+    -contact
+    -bio
+    -submit a review
+    -social feed
+    -homepage
+    -articles
+    -reviews
+    -dashboard
+    -direct messaging
+
+
+You Can Group Pages Into Relatable Piles
+----------------------------------------
+for example:
+
+1.  -contact
+    -faqs
+    -support
+
+2.  -hompage
+
+3.  -bio
+    -articles
+    -reviews
+
+4.  -peer review
+    -social feed
+    -submit review
+    -dashboard
+    -direct messaging
+
+-Have your users organize the cards in a way they understand it
+-then have them organize the piles in order of significance
+-fun the test with 5-8 users and look for correlating patterns
+-with the results from the users the site layout will be self-explanatory
+
+the most significant cards will end up being the persistant-navigation
+
+
+You Can Now Start Building A Sitemap
+-------------------------------------
+sitemaps are like a floorplan for a website
+gives a visual representation of the sites organization and how different section link together
+once you have a site-map in plan, everyone working on the project can stay synced up
+
+the hierachy of the site-map will tell you two things:
+  1. what links will be in the primary and secondary navigation
+  2. and where intersections paths will be necessary to make those paths accessible
+
+-top-lvl pages
+-organizing sub-content
+-sub-sections
+
+when reviewing a site-map make sure all
+-sections
+-sub-sections
+-and pages
+are represented
+
+
+Help Users Understand Where They Are Within Your Site
+------------------------------------------------------
+- persistent navigation active state
+- sidebar navigation active state
+- these location markers should be easy for users to see
+
+
+Content Associated With Articles
+--------------------------------
+ - persistent navigation
+ - persistent side-bar navigation
+ - content specific pages
+
+
+Using Page Titles On Websites
+-----------------------------
+this is something you want to make a hibit of
+displaying the page title for your webpage
+you should always display a title for your web page
+this should always match the name of the link to get to that page
+the title should be just below the persistent navigation and above the actual content
+
+this is a visual hierarchy
+
+
+The Benifits Of Information Architecture
+----------------------------------------
+- helps you organize your pages and create good navigation
+- helps users understand where they are and where to go
