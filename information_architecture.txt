@@ -85,7 +85,7 @@ for example:
 
 -Have your users organize the cards in a way they understand it
 -then have them organize the piles in order of significance
--fun the test with 5-8 users and look for correlating patterns
+-run the test with 5-8 users and look for correlating patterns
 -with the results from the users the site layout will be self-explanatory
 
 the most significant cards will end up being the persistant-navigation
