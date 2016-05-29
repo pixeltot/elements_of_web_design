@@ -44,7 +44,7 @@ here is a recipe: personas are descriptions of users within your target audience
 7. concerns:  can i co-write reviews?,
               can i read reviews on my mobile device,
               can i save articles i want to read later
-              can i follow peers whos reviews
+              can i follow peers whos reviews i like
 
 
 4 Benifits Of Creating Personas
