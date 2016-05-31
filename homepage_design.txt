@@ -1,0 +1,86 @@
+What Should Homepage Answer
+----------------------------
+A visitor must be able to quickly answer these questions:
+  - what is this?
+  - what do they have here?
+  - what can I do here?
+  - why should I be here?
+  - Where do I start?
+
+
+'Search' Should Always Be A Prominent Feature
+-------------------------------------------
+- custom search
+- standard search
+- search by catagory
+
+
+Taglines Explain The Service Or Product
+---------------------------------------
+a tagline explaines the product or service being offered
+
+
+Mottos Explain A Companys Ethics
+--------------------------------
+- a motto  is generally used with bigger brands and explains the companies ethics
+- they are a statement of company ethics and not just an explanation of products and services
+
+"horror isnt just a genre, its our lifestyle"
+
+Welcome Statements
+------------------
+- welcome statements are a complete, concise explanation of the product or service that
+  ensure the user is in the right place and should continue exploring
+- welcome statements and taglines tend to overlap at times.
+- they are typically a short description of the site displayed at the upper left/center of page
+- they tend to be a more complete explanation of the product or service
+- it should help guide the user to the next step
+
+- taglines are more general
+  - welcome statements are more concise
+
+
+Prominently Displaying Signup and Sign-in
+------------------------------------------
+- sign up features must incluse multiple ways for users to sign up
+- users need to know why and how to use it
+- clear sign-up and sign-in
+
+- why would you sign up?
+  - users need to create content for others to read
+
+
+Users Should Have Multiple Ways To Sign Up
+------------------------------------------
+- why you should sign up
+- sign up or sign in
+- sign up with social links
+- simple email signup
+You need to make it as easy as possible for users to get involved
+
+
+Time-sensitive Content Is Important To Users
+--------------------------------------------
+- Time-senstitive content is important to users to confirm the site is active
+  and content is updated frequently
+- date and time stamps, up-to-date content
+
+
+A "Top Reviews"/"Top Stories" Section To Show Content Is Trending
+-----------------------------------------------------------------
+
+
+You Need A Way For Users To Discover New Content
+-------------------------------------------------
+always have a way for users to discover new content and features
+- newsletters work great for this, makes users re-engage with your product
+  without having to come back to the site
+- newsletter signups
+- must have a clear explanation of what you get when signing up!
+  examples:
+  - the top five stories of the week
+  - upcoming events you can join with the other users
+  - should tell users how frequently they will receive emails
+  - should tell useres that they will never be spamed
+
+"the first few seconds you spend on a website are critical" - Steve Krug
