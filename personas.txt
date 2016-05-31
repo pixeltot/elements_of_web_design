@@ -53,9 +53,3 @@ here is a recipe: personas are descriptions of users within your target audience
 2. they allow you to empathize with the users needs
 3. they focus decision-making and peronalize the users.
 4. create a shared understanding of WHO the user is
-
-
-
-
-
-
