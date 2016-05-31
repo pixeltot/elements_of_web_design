@@ -1,0 +1,122 @@
+Common Conventions In Navigation
+--------------------------------
+1. logo that links back to the homepage
+2. top level navigation - pages ['about','portfolio', 'contact']
+3. optional top level utility navigation - login - sign up - sign out
+4. always want to create a search function, which should be at the top of every page
+
+its a good rule of thumb to only accomodate no more than 4 utility links in the persistent navigation
+
+
+Descriptor Navigation
+---------------------
+- on home page a descriptor navigation, with conography and explanations
+  this will give people comming to the site the ability to quickly find content that they find interesting
+
+for example:
+the smashing magazine site does this by seperating content into topics of interest
+- coding
+- design
+- mobile
+- graphics
+
+spotify does this too, by organizing their content into genres
+- mood
+- party
+- pop
+- workout
+- chill
+- latino
+
+
+Task-based Verb Navigation
+--------------------------
+- this is a good choice for the dashboard because there are a lot of actionable links here
+- you frequently see verb based links on financial sites using words like:
+  - invest
+  - bank
+  - trading
+
+
+User-base Navigation
+--------------------
+- this helps users find content based on their needs
+- with the ovelooktheatre you can have links like:
+  - people that have reviews you like
+  - reviews from people you follow that have not been commented on
+  - peers - follow an overlooktheatre user whos reviews you really like
+  - tags - create tags that you can link back to the things you reviewed the users page
+
+- user based navigation is a common convention of pricing pages
+  where pricing is divided out based on a users needs
+  for example on the litmus site they use:
+  - premium
+  - plus
+  - basic
+
+
+Search Fields
+-------------
+Website users tend to be split between using navigation and search.
+users who know exactly what they want tend to use the search field first
+- smaller search fields will get one word searches
+- larger search fields are more likely to get phrases
+
+
+Google Pageview Percentages
+---------------------------
+according to Jakob Nielson:
+  "viewing frequency drops off rapidly after the first page.
+  more than half of all users dont scroll at all,
+  so only 42% of users will see any information on the second screenful"
+
+so its important to move the content the user is looking for to the first page
+
+one way to do this is by sorting
+  for example:
+  - recent
+  - popular
+  - most commented
+  - most reviews
+
+  this will put the data in a new order
+
+
+filtering is useful in a different way:
+  - filtering reduces the amount of content being displayed
+  - filtering removes irrelevant data
+
+
+Tagging is also useful:
+  when a user can tag their own content with relevant keywords,
+  it makes it easier for them to search and find content based on specific keywords
+
+
+Filtering examples:
+  - color
+  - brand
+  - catagory
+
+
+Pagination:
+  pagingation is a universal option that allows users to access a big list of data
+  google search uses pagination
+
+Infinite Scrolling
+  When dealing with large lists of user generated content infinite scrolling is the best option
+  for example:
+  - twitter
+  - facebook
+
+Tabs for Sorting:
+  tabs clean up the page, and are easy for people to understand
+
+
+Navigation Summary
+------------------
+- top navigation standards help users find what they are looking for
+- descriptor navigation helps with page discory
+- user verbs in navigation for actionable links
+- navigation links and search are equally important
+- sorting and filtering help connect users to content (on the first page)
+- tabs can help clean up the page
