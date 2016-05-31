@@ -1,0 +1,78 @@
+Forms
+-----
+- make sure you put your labels above the input fields
+  this makes it easier for users to see what they should write into the fields
+- remove any uneccessary fields
+  since the users need to be logged in asking for a first and last name would be overkill
+  also remove any irrelevant fields
+
+
+Using Optional Fields In Forms
+------------------------------
+- making required fields generally results in users skipping optional fields
+- making fields optional is more likely to result in users filling out the form completely
+
+Error handling should be clear and helpful, never blaming the user
+try to understand the error and give contextual feeback
+
+
+Explicit Choice
+---------------
+- research has shown that when a default choice is offered, most people do not deviate from it
+  you can have checkboxes pre-checked for example
+
+
+What To Consider When Creating Buttons
+--------------------------------------
+- why am i clickin this button?
+- whats going to happen when i click this button?
+
+make sure your buttons are large and easy to click
+  - make enough padding inbetween the text and the edge of the button
+  - make it look like a button
+  - dont use default HTML links
+
+try and avoid confusing or cutesy terms
+  - links should be clear
+  - users should understand what will happend when the link is clicked
+
+what to consider when creating links
+  - always use a hand cursor when creating a button/link
+  - hand cursors signify the button is clickable
+
+
+Confirmation Messaging
+----------------------
+confirmation messages can be extremely usefull, but its important not to over use them
+- never user a confirmation message when you can easily give the user the option to undo
+- its best to use a confirmation message when the user is doing something irreversible
+
+  for example:
+    - on Skype the user must confirm that they want to mute the conversation
+      if the user didnt have the confirmation they may not know that the conversation was muted
+      leaded to frustration
+    - Apple uses confirmation messages when a user tries to delete older messages on their messaging app
+      this is so a user doesnt accidentally delete a message they never intended to delete
+    - any time you are charging a user you should create a confirmation message
+      this will ensure they know that they are paying for something, and what they are paying for
+      no one want to deal with accidental checkouts
+
+Celebrating User Engagment With Mini Wins!
+-------------------------------------------
+- mini wins can help user engagement
+- confirms that the task was completed correctly
+- it conditions them to continue the behavior
+
+
+Accessibility On Our Web Forms
+------------------------------
+Keep these rules in mind when creating accessible forms
+- never put text in an image. screen-readers should be able to tell the user everything
+- avoid low-contrast text on input fields
+- make sure all fields are laid out in a logical order
+- always test your forms with usibility tools
+    you can paste in your url at:
+    https://wave.webaim.org/
+    it will return a lot of valuable information to ensure everyone has a better experince on your site
+- test your site with a color contrast analysis tool:
+    there is a chrome extension that can be downloaded for free from the chrome web store
