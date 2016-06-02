@@ -1,0 +1,117 @@
+Web Pages Should Be Responsive
+------------------------------
+- a responsive web page can reshape to any device
+  - desktop
+  - mobile
+  - tablet
+
+  users should have a similar experience on a mobile and web app
+  an experience on a mobile app should be consistent with the website
+  this ensures that users will know how to user the product with little explanation
+
+an important feature to keep in mind when deigning for mobile is:
+- to keep things consistent with the web app
+
+Continuous Content From Any Device
+------------------------------------
+although templates may change between device, content must remain seemless
+for example:
+  - when you read an article on the mobile app, it appears as recently read articles on the web app
+
+
+Its Important To Understand The User's Goals (the users context)
+------------------------------------------------------
+think about context - make sure you design for the user's context, not the device
+- who + what + when + where = context
+
+for example:
+  - you should read and be able to publish articles
+
+
+Utilizing Hardware To Create A Better Experience
+------------------------------------------------
+- one thing you can do to improve the mobile experience is give users access to the devices hardware
+  for example:  if they are working on an article, they should be able to take a picture
+                with the device that they are using to create the article
+
+
+Three Globally Recognized Logos
+-------------------------------
+- home icon
+- search icon
+- print icon
+
+- its good to also include a text label when possible
+
+a site can really benefit from having good icons:
+ - icons make good targets, and are large enough to tough
+ - icons should be at least 44px by 44px
+ - icons are also great because they are fast to recognize at a glance
+ - icons can be asthetically pleasant, enhancing your design
+
+keep icon designs simple, and test them with your users
+because icons are small, its good to keep it clear and simple
+
+icons + labels = good designed icons
+
+
+External Triggers Should Engage Users
+-------------------------------------
+for example:
+  - social buttons on an article (tweet about what you've just read)
+
+
+Using Internal Triggers To Engage Users Emotions
+-------------------------------------------------
+A cue that exists in the user’s environment and provides information on what
+to do next is called an external trigger.
+
+for example:
+  - say a friend of yours tweets they just read an awesome article
+    since you trust your friends opinion, you're more likely to engage with that content
+
+
+Successful Products Trigger Emotions
+-------------------------------------
+does your product make you feel:
+  - happy
+  - accomplished
+  - uncertain? (google it)
+
+
+Good Notifications Inspire Action
+----------------------------------
+- good triggers prompt action, while vague or irrelevant messages annoy users.
+its important that there is a clear action to the trigger
+
+for example:
+  - when a user you follow posts a new article, we get a push notification
+    from the app that we can tap to go read the article
+this is a good, simple, personalized message with a clear action
+
+
+Good Notifications Create Intrigue
+----------------------------------
+- intrigue can be created by notifying users of the most commented article of the week
+  this will most likely tempt users to engage because they will want to know
+  what everyone is talking about. it plays into out innate sense of curiosity
+
+
+Make Signup As Simple And Easy As Possible
+--------------------------------------------
+- email login + get the link = logged in to app
+
+  this will ensure that users dont have to remember a complicated password and
+  have to enter it on their phones, they will get a link in their email and
+  all they will have to do is click on the link to get access to the app
+
+
+Help Users Onboard With A Short Tutorial
+-----------------------------------------
+launch a self-paced tutorial of the 'primary actions' a user needs to understand in
+order to become familiar with the app
+- make sure you are only showing the most important actions they will need to
+  perform right away
+- when using the tutorial approach, guide the user with a button
+- each view should have one clear primary action the user needs to take
+- guide them every step of the way
