@@ -1,0 +1,87 @@
+Improving Your Pricing Page
+---------------------------
+- pricing pages should influence user decisions
+- once people are interested and engaged, you need to present a clear,
+  convincing argument that nudges them to take action
+- offer content that answers a persons questions and informed choice
+- show the cost, and everything you will get, in bullet form beneath it
+
+Offer Recommendations
+---------------------
+people will be more compelled to do something when provided next steps or options.
+- users value suggestions
+  for example:
+  - recommended option
+  - most popular option
+  - try it for free option
+
+each option must also describe the benefits
+- people want to know whats in it for them
+- this can include rewards like money, rebates, or lifestyle benifits
+- or helping users get published
+
+
+Appealing To Intrinsic Motivations
+----------------------------------
+e.g. - with every product you purchase, we will help a person in need.
+
+
+Reframe The Message
+-------------------
+- anchor people towards a specific choice, persuade them through scarcity, or
+  user social motivators, such as social comparisons or social proof
+- social proof = testimonials
+- Donation recommendations are reinforced with behavioral science techniques,
+  like social proof(how many people have pledged), and scarcity(limited time)
+  -scarcity = limited time
+  -social proof = # of backers
+
+
+Pricing Pages Should Facilitate Action
+---------------------------------------
+after a person has made the decision to actm the next step is to help them follow through,
+making the action as easy and barrier-free as possible
+- simplify the action
+- trigger action at the right moment
+- guiding the experience
+
+
+Guiding The Experience
+-----------------------
+- shape the experience in a way that facilitates action. common techniques include walkthroughs,
+  callouts, or pre-determined defaults
+- breaking up the setup process into small chunks makes it more approachable
+  its more likely that users will complete the process
+
+
+Trigger Actions At The Right Moment
+-----------------------------------
+- timing is critical, make sure you trigger a person to take action during the
+  times they are most motivated and able to take action.
+
+  for example:
+  - users ned to create an account to write reviews, so when a new user is interested in contributing to the site
+    and clicks on a "write a review" button, a modal pops up encouraging them to create an account
+    the user is free to explore the site and read as much as they want, never try to make them sign up,
+    only when they want to do something that requires an account will we ask for their information
+
+
+Important Things To Keep In Mind
+---------------------------------
+- the paradox of choice
+- progressive disclosure
+This helps reduce the cognitive load on the user and help facilitate action
+
+paradox of choice - the more options you offer someone, the harder it is to choose
+                    this is called the paradox of choice.
+                    - you are giving the user too many choices
+                    - if they cant decide they will leave
+
+progressive disclosure -  means you reduce page details to a minimum, and only
+                          allow acces to basic information that enables the client
+                          to quickly and easily achieve their objective.
+                          - only show whats necessary
+                          - if people are making a choice, limit the number of choices
+                          - avoid the tendancy to over explain, or show everything at once
+                          - most people will only consider the choices offered
+                          - all choices should take users closer to their goals and yours
